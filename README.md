@@ -301,13 +301,6 @@ python run_ig.py           --data_dir /path/to/images --out_root /path/to/out --
 
 ---
 
-## 8) Notes for maintainers
 
-* The only file end-users typically need to edit is `xai_core.py` (paths + sys.path).
-* Each `run_*.py` script is intentionally limited to one method to keep usage simple.
-* The `--no_core` option exists to support lightweight runs when only the post-hoc map is desired.
-
-```
-```
 
 
