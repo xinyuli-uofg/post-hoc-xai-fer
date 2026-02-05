@@ -1,10 +1,6 @@
 # post-hoc-xai-fer
 A post-hoc XAI toolkits for generating model explaination for FER
 
-# Post-hoc XAI Runner (AffectNet FER / AGCEM)
-
-This folder provides a user-facing, one-script-per-method interface for generating post-hoc XAI visualizations on a directory of images. Each script loads the same trained model once, iterates over all `.jpg` files in `--data_dir`, and writes results into a structured output folder.
-
 Supported methods:
 - Core outputs (your original AU + attention visualizations)
 - LIME
