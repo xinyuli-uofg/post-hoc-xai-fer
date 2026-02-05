@@ -2,7 +2,6 @@
 A post-hoc XAI toolkits for generating model explaination for FER
 
 Supported methods:
-- Core outputs (your original AU + attention visualizations)
 - LIME
 - SHAP (abs / signed / posneg)
 - Integrated Gradients (pixel IG or LayerIG)
@@ -11,6 +10,8 @@ Supported methods:
 - Grad-CAM
 - LayerCAM
 - LRP (Captum)
+- AGCM ante-hoc interpretability
+
 
 ---
 
