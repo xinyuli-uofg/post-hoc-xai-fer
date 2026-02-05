@@ -1,5 +1,6 @@
-# post-hoc-xai-fer
-A post-hoc XAI toolkits for generating model explaination for FER
+# A Toolkit for Post-Hoc Explainable AI in FER
+A Modular Toolkit for Post-Hoc Explainable AI in Facial Expression Recognition
+
 
 Supported methods:
 - LIME
@@ -17,7 +18,7 @@ Supported methods:
 
 ## 1) Online documented instruction
 
-Will be online soon
+Paper will be online soon..
 
 ---
 
